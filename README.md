@@ -25,11 +25,11 @@
 
 ## ▶️ Cara Menjalankan
 
-1. **Clone repositori ini** atau unduh file `file_renamer.py`
+1. **Clone repositori ini** atau unduh file `rename_gui.py`
 2. Pastikan Python 3 sudah terinstall
 3. Jalankan dengan perintah:
    ```bash
-   python file_renamer.py
+   python rename_gui.py
 4. Aplikasi GUI akan muncul dan kamu bisa:
 - Menentukan prefix
 - Mengaktifkan atau menonaktifkan filter ekstensi
